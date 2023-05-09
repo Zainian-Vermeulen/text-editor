@@ -1,0 +1,70 @@
+﻿<Window x:Class="ToolDev.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ToolDev"
+        xmlns:viewmodels="clr-namespace:ToolDev.ViewModels"
+        mc:Ignorable="d"
+        Title="Notepad--" Height="400" Width="600">
+
+
+    <Window.DataContext>
+        <viewmodels:MainViewModel/>
+    </Window.DataContext>
+   
+    <Window.InputBindings>
+        <KeyBinding Modifiers="Control" Key="S" Command="{Binding File.SaveCommand}"/>
+        <KeyBinding Modifiers="Control" Key="O" Command="{Binding File.OpenCommand}"/>
+        <KeyBinding Modifiers="Control" Key="N" Command="{Binding File.NewCommand}"/>
+        <KeyBinding Modifiers="Alt" Key="F4" Command="{Binding File.ExitCommand}"/>
+        
+</Window.InputBindings>
+
+    
+    <DockPanel >
+        <Menu DockPanel.Dock="Top">
+            <Menu.Items>
+                <MenuItem Header="_File" DataContext="{Binding File}">
+                    <MenuItem Header="_New" InputGestureText="Ctrl+N" Command="{Binding NewCommand}"/>
+                    <MenuItem Header="_Open" InputGestureText="Ctrl+O" Command="{Binding OpenCommand}"/>
+                    <MenuItem Header="Save_As..." InputGestureText="Ctrl+S" Command="{Binding SaveCommand}"/>
+                    <MenuItem Header="_Recent Files" Command="{Binding RecentCommand}"/>
+                    <Separator HorizontalAlignment="Left" Height="1" Width="140"></Separator>
+                    <MenuItem Header="_Exit" InputGestureText="Alt+F4" Command="{Binding ExitCommand}"/>
+
+                </MenuItem>
+
+                <MenuItem Header="Fo_rmat" DataContext="{Binding Editor}">
+                    <MenuItem Header="Fo_nt" Command="{Binding FormatCommand}"/>
+                    <MenuItem Header="_Word Wrap" Command="{Binding WrapCommand}"/>
+                </MenuItem>
+
+                <MenuItem Header="_Help" DataContext="{Binding Help}">
+                    <MenuItem Header="_About" Command="{Binding HelpCommand}"/>
+                </MenuItem>
+            </Menu.Items>
+ 
+        </Menu>
+       
+        <DockPanel>
+            <TextBlock DockPanel.Dock="Bottom"
+                       DataContext="{Binding File.Document}"
+                       Text="{Binding FilePath}"/>
+           
+            <TextBox DockPanel.Dock="Top"
+                       VerticalScrollBarVisibility="Visible"
+                       DataContext="{Binding Editor}"
+                       FontFamily="{Binding Format.Family}"
+                       FontSize="{Binding Format.Size}"
+                       FontStyle="{Binding Format.Style}"
+                       FontWeight="{Binding Format.Weight}"
+                       TextWrapping="{Binding Format.Wrap}"
+                       AcceptsReturn="True"
+                       AcceptsTab="True"
+                       Text="{Binding Document.Text, Mode = TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+        </DockPanel>
+
+    </DockPanel>
+    
+</Window>

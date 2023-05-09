@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Update="FontDialog - Copy.xaml.cs">
+      <SubType>Code</SubType>
+      <DependentUpon>FontDialog.xaml.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,38 @@
+﻿<Window x:Class="ToolDev.HelpDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ToolDev"
+        mc:Ignorable="d"
+        Title="About" Height="300" Width="300"
+        WindowStartupLocation="CenterScreen">
+    <Grid>
+        <StackPanel VerticalAlignment="Center"
+                    HorizontalAlignment="Center">
+            <TextBlock FontSize="24" 
+                       HorizontalAlignment="Center"
+                       FontWeight="Bold">
+                Notpad--
+            </TextBlock>
+            <TextBlock FontSize="18"
+                       FontWeight="SemiBold">
+                About
+            </TextBlock>
+            <TextBlock TextWrapping="Wrap">
+                This is a simple C# WPF text editor created by Zainian Vermeulen <LineBreak/>
+            </TextBlock>
+            <TextBlock FontSize="18"
+                       FontWeight="SemiBold">
+                This editor includes:
+            </TextBlock>
+            <TextBlock TextWrapping="Wrap">
+                -Edit text files<LineBreak/>
+                -Saving text files<LineBreak/>
+                -Loading text files<LineBreak/>
+                -Font Styles<LineBreak/>
+                -Font Sizes<LineBreak/>
+            </TextBlock>
+        </StackPanel>
+    </Grid>
+</Window>

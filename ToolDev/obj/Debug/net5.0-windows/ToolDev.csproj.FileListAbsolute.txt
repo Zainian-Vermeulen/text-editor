@@ -1,0 +1,216 @@
+D:\new skool\tooldev\NewNewTooldev\ToolDev\ToolDev\bin\Debug\net5.0-windows\ToolDev.exe
+D:\new skool\tooldev\NewNewTooldev\ToolDev\ToolDev\bin\Debug\net5.0-windows\ToolDev.deps.json
+D:\new skool\tooldev\NewNewTooldev\ToolDev\ToolDev\bin\Debug\net5.0-windows\ToolDev.runtimeconfig.json
+D:\new skool\tooldev\NewNewTooldev\ToolDev\ToolDev\bin\Debug\net5.0-windows\ToolDev.runtimeconfig.dev.json
+D:\new skool\tooldev\NewNewTooldev\ToolDev\ToolDev\bin\Debug\net5.0-windows\ToolDev.dll
+D:\new skool\tooldev\NewNewTooldev\ToolDev\ToolDev\bin\Debug\net5.0-windows\ref\ToolDev.dll
+D:\new skool\tooldev\NewNewTooldev\ToolDev\ToolDev\bin\Debug\net5.0-windows\ToolDev.pdb
+D:\new skool\tooldev\NewNewTooldev\ToolDev\ToolDev\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\new skool\tooldev\NewNewTooldev\ToolDev\ToolDev\obj\Debug\net5.0-windows\App.g.cs
+D:\new skool\tooldev\NewNewTooldev\ToolDev\ToolDev\obj\Debug\net5.0-windows\ToolDev_MarkupCompile.cache
+D:\new skool\tooldev\NewNewTooldev\ToolDev\ToolDev\obj\Debug\net5.0-windows\ToolDev_MarkupCompile.lref
+D:\new skool\tooldev\NewNewTooldev\ToolDev\ToolDev\obj\Debug\net5.0-windows\MainWindow.baml
+D:\new skool\tooldev\NewNewTooldev\ToolDev\ToolDev\obj\Debug\net5.0-windows\ToolDev.g.resources
+D:\new skool\tooldev\NewNewTooldev\ToolDev\ToolDev\obj\Debug\net5.0-windows\ToolDev.GeneratedMSBuildEditorConfig.editorconfig
+D:\new skool\tooldev\NewNewTooldev\ToolDev\ToolDev\obj\Debug\net5.0-windows\ToolDev.AssemblyInfoInputs.cache
+D:\new skool\tooldev\NewNewTooldev\ToolDev\ToolDev\obj\Debug\net5.0-windows\ToolDev.AssemblyInfo.cs
+D:\new skool\tooldev\NewNewTooldev\ToolDev\ToolDev\obj\Debug\net5.0-windows\ToolDev.csproj.CoreCompileInputs.cache
+D:\new skool\tooldev\NewNewTooldev\ToolDev\ToolDev\obj\Debug\net5.0-windows\ToolDev.dll
+D:\new skool\tooldev\NewNewTooldev\ToolDev\ToolDev\obj\Debug\net5.0-windows\ref\ToolDev.dll
+D:\new skool\tooldev\NewNewTooldev\ToolDev\ToolDev\obj\Debug\net5.0-windows\ToolDev.pdb
+D:\new skool\tooldev\NewNewTooldev\ToolDev\ToolDev\obj\Debug\net5.0-windows\ToolDev.genruntimeconfig.cache
+D:\new skool\tooldev\NewNewTooldev\ToolDev\ToolDev\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\new skool\tooldev\NewNewTooldev\ToolDev\ToolDev\obj\Debug\net5.0-windows\FontDialog.g.cs
+D:\new skool\tooldev\NewNewTooldev\ToolDev\ToolDev\obj\Debug\net5.0-windows\FontDialog.baml
+D:\new skool\tooldev\NewNewTooldev\ToolDev\ToolDev\obj\Debug\net5.0-windows\HelpDialog.g.cs
+D:\new skool\tooldev\NewNewTooldev\ToolDev\ToolDev\obj\Debug\net5.0-windows\HelpDialog.baml
+D:\new skool\tooldev\NewNewTooldev\ToolDev\ToolDev\obj\Debug\net5.0-windows\ToolDev.csprojAssemblyReference.cache
+C:\Users\Zainian\Desktop\test2\ToolDev\ToolDev\bin\Debug\net5.0-windows\ToolDev.exe
+C:\Users\Zainian\Desktop\test2\ToolDev\ToolDev\bin\Debug\net5.0-windows\ToolDev.deps.json
+C:\Users\Zainian\Desktop\test2\ToolDev\ToolDev\bin\Debug\net5.0-windows\ToolDev.runtimeconfig.json
+C:\Users\Zainian\Desktop\test2\ToolDev\ToolDev\bin\Debug\net5.0-windows\ToolDev.runtimeconfig.dev.json
+C:\Users\Zainian\Desktop\test2\ToolDev\ToolDev\bin\Debug\net5.0-windows\ToolDev.dll
+C:\Users\Zainian\Desktop\test2\ToolDev\ToolDev\bin\Debug\net5.0-windows\ref\ToolDev.dll
+C:\Users\Zainian\Desktop\test2\ToolDev\ToolDev\bin\Debug\net5.0-windows\ToolDev.pdb
+C:\Users\Zainian\Desktop\test2\ToolDev\ToolDev\obj\Debug\net5.0-windows\ToolDev.csprojAssemblyReference.cache
+C:\Users\Zainian\Desktop\test2\ToolDev\ToolDev\obj\Debug\net5.0-windows\FontDialog.g.cs
+C:\Users\Zainian\Desktop\test2\ToolDev\ToolDev\obj\Debug\net5.0-windows\HelpDialog.g.cs
+C:\Users\Zainian\Desktop\test2\ToolDev\ToolDev\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Zainian\Desktop\test2\ToolDev\ToolDev\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Zainian\Desktop\test2\ToolDev\ToolDev\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Zainian\Desktop\test2\ToolDev\ToolDev\obj\Debug\net5.0-windows\ToolDev_MarkupCompile.cache
+C:\Users\Zainian\Desktop\test2\ToolDev\ToolDev\obj\Debug\net5.0-windows\ToolDev_MarkupCompile.lref
+C:\Users\Zainian\Desktop\test2\ToolDev\ToolDev\obj\Debug\net5.0-windows\FontDialog.baml
+C:\Users\Zainian\Desktop\test2\ToolDev\ToolDev\obj\Debug\net5.0-windows\HelpDialog.baml
+C:\Users\Zainian\Desktop\test2\ToolDev\ToolDev\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Zainian\Desktop\test2\ToolDev\ToolDev\obj\Debug\net5.0-windows\ToolDev.g.resources
+C:\Users\Zainian\Desktop\test2\ToolDev\ToolDev\obj\Debug\net5.0-windows\ToolDev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zainian\Desktop\test2\ToolDev\ToolDev\obj\Debug\net5.0-windows\ToolDev.AssemblyInfoInputs.cache
+C:\Users\Zainian\Desktop\test2\ToolDev\ToolDev\obj\Debug\net5.0-windows\ToolDev.AssemblyInfo.cs
+C:\Users\Zainian\Desktop\test2\ToolDev\ToolDev\obj\Debug\net5.0-windows\ToolDev.csproj.CoreCompileInputs.cache
+C:\Users\Zainian\Desktop\test2\ToolDev\ToolDev\obj\Debug\net5.0-windows\ToolDev.dll
+C:\Users\Zainian\Desktop\test2\ToolDev\ToolDev\obj\Debug\net5.0-windows\ref\ToolDev.dll
+C:\Users\Zainian\Desktop\test2\ToolDev\ToolDev\obj\Debug\net5.0-windows\ToolDev.pdb
+C:\Users\Zainian\Desktop\test2\ToolDev\ToolDev\obj\Debug\net5.0-windows\ToolDev.genruntimeconfig.cache
+C:\Users\Zainian\Desktop\test2\tooldev test binary\ToolDev\ToolDev\bin\Debug\net5.0-windows\ToolDev.exe
+C:\Users\Zainian\Desktop\test2\tooldev test binary\ToolDev\ToolDev\bin\Debug\net5.0-windows\ToolDev.deps.json
+C:\Users\Zainian\Desktop\test2\tooldev test binary\ToolDev\ToolDev\bin\Debug\net5.0-windows\ToolDev.runtimeconfig.json
+C:\Users\Zainian\Desktop\test2\tooldev test binary\ToolDev\ToolDev\bin\Debug\net5.0-windows\ToolDev.runtimeconfig.dev.json
+C:\Users\Zainian\Desktop\test2\tooldev test binary\ToolDev\ToolDev\bin\Debug\net5.0-windows\ToolDev.dll
+C:\Users\Zainian\Desktop\test2\tooldev test binary\ToolDev\ToolDev\bin\Debug\net5.0-windows\ref\ToolDev.dll
+C:\Users\Zainian\Desktop\test2\tooldev test binary\ToolDev\ToolDev\bin\Debug\net5.0-windows\ToolDev.pdb
+C:\Users\Zainian\Desktop\test2\tooldev test binary\ToolDev\ToolDev\obj\Debug\net5.0-windows\ToolDev.csprojAssemblyReference.cache
+C:\Users\Zainian\Desktop\test2\tooldev test binary\ToolDev\ToolDev\obj\Debug\net5.0-windows\FontDialog.g.cs
+C:\Users\Zainian\Desktop\test2\tooldev test binary\ToolDev\ToolDev\obj\Debug\net5.0-windows\HelpDialog.g.cs
+C:\Users\Zainian\Desktop\test2\tooldev test binary\ToolDev\ToolDev\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Zainian\Desktop\test2\tooldev test binary\ToolDev\ToolDev\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Zainian\Desktop\test2\tooldev test binary\ToolDev\ToolDev\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Zainian\Desktop\test2\tooldev test binary\ToolDev\ToolDev\obj\Debug\net5.0-windows\ToolDev_MarkupCompile.cache
+C:\Users\Zainian\Desktop\test2\tooldev test binary\ToolDev\ToolDev\obj\Debug\net5.0-windows\ToolDev_MarkupCompile.lref
+C:\Users\Zainian\Desktop\test2\tooldev test binary\ToolDev\ToolDev\obj\Debug\net5.0-windows\FontDialog.baml
+C:\Users\Zainian\Desktop\test2\tooldev test binary\ToolDev\ToolDev\obj\Debug\net5.0-windows\HelpDialog.baml
+C:\Users\Zainian\Desktop\test2\tooldev test binary\ToolDev\ToolDev\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Zainian\Desktop\test2\tooldev test binary\ToolDev\ToolDev\obj\Debug\net5.0-windows\ToolDev.g.resources
+C:\Users\Zainian\Desktop\test2\tooldev test binary\ToolDev\ToolDev\obj\Debug\net5.0-windows\ToolDev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zainian\Desktop\test2\tooldev test binary\ToolDev\ToolDev\obj\Debug\net5.0-windows\ToolDev.AssemblyInfoInputs.cache
+C:\Users\Zainian\Desktop\test2\tooldev test binary\ToolDev\ToolDev\obj\Debug\net5.0-windows\ToolDev.AssemblyInfo.cs
+C:\Users\Zainian\Desktop\test2\tooldev test binary\ToolDev\ToolDev\obj\Debug\net5.0-windows\ToolDev.csproj.CoreCompileInputs.cache
+C:\Users\Zainian\Desktop\test2\tooldev test binary\ToolDev\ToolDev\obj\Debug\net5.0-windows\ToolDev.dll
+C:\Users\Zainian\Desktop\test2\tooldev test binary\ToolDev\ToolDev\obj\Debug\net5.0-windows\ref\ToolDev.dll
+C:\Users\Zainian\Desktop\test2\tooldev test binary\ToolDev\ToolDev\obj\Debug\net5.0-windows\ToolDev.pdb
+C:\Users\Zainian\Desktop\test2\tooldev test binary\ToolDev\ToolDev\obj\Debug\net5.0-windows\ToolDev.genruntimeconfig.cache
+C:\Users\User\Desktop\tooldev\ToolDevnew\ToolDev\bin\Debug\net5.0-windows\ToolDev.exe
+C:\Users\User\Desktop\tooldev\ToolDevnew\ToolDev\bin\Debug\net5.0-windows\ToolDev.deps.json
+C:\Users\User\Desktop\tooldev\ToolDevnew\ToolDev\bin\Debug\net5.0-windows\ToolDev.runtimeconfig.json
+C:\Users\User\Desktop\tooldev\ToolDevnew\ToolDev\bin\Debug\net5.0-windows\ToolDev.runtimeconfig.dev.json
+C:\Users\User\Desktop\tooldev\ToolDevnew\ToolDev\bin\Debug\net5.0-windows\ToolDev.dll
+C:\Users\User\Desktop\tooldev\ToolDevnew\ToolDev\bin\Debug\net5.0-windows\ref\ToolDev.dll
+C:\Users\User\Desktop\tooldev\ToolDevnew\ToolDev\bin\Debug\net5.0-windows\ToolDev.pdb
+C:\Users\User\Desktop\tooldev\ToolDevnew\ToolDev\obj\Debug\net5.0-windows\ToolDev.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\tooldev\ToolDevnew\ToolDev\obj\Debug\net5.0-windows\FontDialog.g.cs
+C:\Users\User\Desktop\tooldev\ToolDevnew\ToolDev\obj\Debug\net5.0-windows\HelpDialog.g.cs
+C:\Users\User\Desktop\tooldev\ToolDevnew\ToolDev\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\User\Desktop\tooldev\ToolDevnew\ToolDev\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\User\Desktop\tooldev\ToolDevnew\ToolDev\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Desktop\tooldev\ToolDevnew\ToolDev\obj\Debug\net5.0-windows\ToolDev_MarkupCompile.cache
+C:\Users\User\Desktop\tooldev\ToolDevnew\ToolDev\obj\Debug\net5.0-windows\ToolDev_MarkupCompile.lref
+C:\Users\User\Desktop\tooldev\ToolDevnew\ToolDev\obj\Debug\net5.0-windows\FontDialog.baml
+C:\Users\User\Desktop\tooldev\ToolDevnew\ToolDev\obj\Debug\net5.0-windows\HelpDialog.baml
+C:\Users\User\Desktop\tooldev\ToolDevnew\ToolDev\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\User\Desktop\tooldev\ToolDevnew\ToolDev\obj\Debug\net5.0-windows\ToolDev.g.resources
+C:\Users\User\Desktop\tooldev\ToolDevnew\ToolDev\obj\Debug\net5.0-windows\ToolDev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\tooldev\ToolDevnew\ToolDev\obj\Debug\net5.0-windows\ToolDev.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\tooldev\ToolDevnew\ToolDev\obj\Debug\net5.0-windows\ToolDev.AssemblyInfo.cs
+C:\Users\User\Desktop\tooldev\ToolDevnew\ToolDev\obj\Debug\net5.0-windows\ToolDev.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\tooldev\ToolDevnew\ToolDev\obj\Debug\net5.0-windows\ToolDev.dll
+C:\Users\User\Desktop\tooldev\ToolDevnew\ToolDev\obj\Debug\net5.0-windows\ref\ToolDev.dll
+C:\Users\User\Desktop\tooldev\ToolDevnew\ToolDev\obj\Debug\net5.0-windows\ToolDev.pdb
+C:\Users\User\Desktop\tooldev\ToolDevnew\ToolDev\obj\Debug\net5.0-windows\ToolDev.genruntimeconfig.cache
+C:\Users\User\Desktop\tooldev\ToolDevColour\ToolDevnew\ToolDev\bin\Debug\net5.0-windows\ToolDev.exe
+C:\Users\User\Desktop\tooldev\ToolDevColour\ToolDevnew\ToolDev\bin\Debug\net5.0-windows\ToolDev.deps.json
+C:\Users\User\Desktop\tooldev\ToolDevColour\ToolDevnew\ToolDev\bin\Debug\net5.0-windows\ToolDev.runtimeconfig.json
+C:\Users\User\Desktop\tooldev\ToolDevColour\ToolDevnew\ToolDev\bin\Debug\net5.0-windows\ToolDev.runtimeconfig.dev.json
+C:\Users\User\Desktop\tooldev\ToolDevColour\ToolDevnew\ToolDev\bin\Debug\net5.0-windows\ToolDev.dll
+C:\Users\User\Desktop\tooldev\ToolDevColour\ToolDevnew\ToolDev\bin\Debug\net5.0-windows\ref\ToolDev.dll
+C:\Users\User\Desktop\tooldev\ToolDevColour\ToolDevnew\ToolDev\bin\Debug\net5.0-windows\ToolDev.pdb
+C:\Users\User\Desktop\tooldev\ToolDevColour\ToolDevnew\ToolDev\obj\Debug\net5.0-windows\ToolDev.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\tooldev\ToolDevColour\ToolDevnew\ToolDev\obj\Debug\net5.0-windows\FontDialog.g.cs
+C:\Users\User\Desktop\tooldev\ToolDevColour\ToolDevnew\ToolDev\obj\Debug\net5.0-windows\HelpDialog.g.cs
+C:\Users\User\Desktop\tooldev\ToolDevColour\ToolDevnew\ToolDev\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\User\Desktop\tooldev\ToolDevColour\ToolDevnew\ToolDev\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\User\Desktop\tooldev\ToolDevColour\ToolDevnew\ToolDev\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Desktop\tooldev\ToolDevColour\ToolDevnew\ToolDev\obj\Debug\net5.0-windows\ToolDev_MarkupCompile.cache
+C:\Users\User\Desktop\tooldev\ToolDevColour\ToolDevnew\ToolDev\obj\Debug\net5.0-windows\ToolDev_MarkupCompile.lref
+C:\Users\User\Desktop\tooldev\ToolDevColour\ToolDevnew\ToolDev\obj\Debug\net5.0-windows\FontDialog.baml
+C:\Users\User\Desktop\tooldev\ToolDevColour\ToolDevnew\ToolDev\obj\Debug\net5.0-windows\HelpDialog.baml
+C:\Users\User\Desktop\tooldev\ToolDevColour\ToolDevnew\ToolDev\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\User\Desktop\tooldev\ToolDevColour\ToolDevnew\ToolDev\obj\Debug\net5.0-windows\ToolDev.g.resources
+C:\Users\User\Desktop\tooldev\ToolDevColour\ToolDevnew\ToolDev\obj\Debug\net5.0-windows\ToolDev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\tooldev\ToolDevColour\ToolDevnew\ToolDev\obj\Debug\net5.0-windows\ToolDev.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\tooldev\ToolDevColour\ToolDevnew\ToolDev\obj\Debug\net5.0-windows\ToolDev.AssemblyInfo.cs
+C:\Users\User\Desktop\tooldev\ToolDevColour\ToolDevnew\ToolDev\obj\Debug\net5.0-windows\ToolDev.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\tooldev\ToolDevColour\ToolDevnew\ToolDev\obj\Debug\net5.0-windows\ToolDev.dll
+C:\Users\User\Desktop\tooldev\ToolDevColour\ToolDevnew\ToolDev\obj\Debug\net5.0-windows\ref\ToolDev.dll
+C:\Users\User\Desktop\tooldev\ToolDevColour\ToolDevnew\ToolDev\obj\Debug\net5.0-windows\ToolDev.pdb
+C:\Users\User\Desktop\tooldev\ToolDevColour\ToolDevnew\ToolDev\obj\Debug\net5.0-windows\ToolDev.genruntimeconfig.cache
+C:\Users\User\Desktop\tooldev\ToolDevColour\ToolDev\ToolDev\bin\Debug\net5.0-windows\ToolDev.exe
+C:\Users\User\Desktop\tooldev\ToolDevColour\ToolDev\ToolDev\bin\Debug\net5.0-windows\ToolDev.deps.json
+C:\Users\User\Desktop\tooldev\ToolDevColour\ToolDev\ToolDev\bin\Debug\net5.0-windows\ToolDev.runtimeconfig.json
+C:\Users\User\Desktop\tooldev\ToolDevColour\ToolDev\ToolDev\bin\Debug\net5.0-windows\ToolDev.runtimeconfig.dev.json
+C:\Users\User\Desktop\tooldev\ToolDevColour\ToolDev\ToolDev\bin\Debug\net5.0-windows\ToolDev.dll
+C:\Users\User\Desktop\tooldev\ToolDevColour\ToolDev\ToolDev\bin\Debug\net5.0-windows\ref\ToolDev.dll
+C:\Users\User\Desktop\tooldev\ToolDevColour\ToolDev\ToolDev\bin\Debug\net5.0-windows\ToolDev.pdb
+C:\Users\User\Desktop\tooldev\ToolDevColour\ToolDev\ToolDev\obj\Debug\net5.0-windows\ToolDev.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\tooldev\ToolDevColour\ToolDev\ToolDev\obj\Debug\net5.0-windows\FontDialog.g.cs
+C:\Users\User\Desktop\tooldev\ToolDevColour\ToolDev\ToolDev\obj\Debug\net5.0-windows\HelpDialog.g.cs
+C:\Users\User\Desktop\tooldev\ToolDevColour\ToolDev\ToolDev\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\User\Desktop\tooldev\ToolDevColour\ToolDev\ToolDev\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\User\Desktop\tooldev\ToolDevColour\ToolDev\ToolDev\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Desktop\tooldev\ToolDevColour\ToolDev\ToolDev\obj\Debug\net5.0-windows\ToolDev_MarkupCompile.cache
+C:\Users\User\Desktop\tooldev\ToolDevColour\ToolDev\ToolDev\obj\Debug\net5.0-windows\ToolDev_MarkupCompile.lref
+C:\Users\User\Desktop\tooldev\ToolDevColour\ToolDev\ToolDev\obj\Debug\net5.0-windows\FontDialog.baml
+C:\Users\User\Desktop\tooldev\ToolDevColour\ToolDev\ToolDev\obj\Debug\net5.0-windows\HelpDialog.baml
+C:\Users\User\Desktop\tooldev\ToolDevColour\ToolDev\ToolDev\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\User\Desktop\tooldev\ToolDevColour\ToolDev\ToolDev\obj\Debug\net5.0-windows\ToolDev.g.resources
+C:\Users\User\Desktop\tooldev\ToolDevColour\ToolDev\ToolDev\obj\Debug\net5.0-windows\ToolDev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\tooldev\ToolDevColour\ToolDev\ToolDev\obj\Debug\net5.0-windows\ToolDev.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\tooldev\ToolDevColour\ToolDev\ToolDev\obj\Debug\net5.0-windows\ToolDev.AssemblyInfo.cs
+C:\Users\User\Desktop\tooldev\ToolDevColour\ToolDev\ToolDev\obj\Debug\net5.0-windows\ToolDev.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\tooldev\ToolDevColour\ToolDev\ToolDev\obj\Debug\net5.0-windows\ToolDev.dll
+C:\Users\User\Desktop\tooldev\ToolDevColour\ToolDev\ToolDev\obj\Debug\net5.0-windows\ref\ToolDev.dll
+C:\Users\User\Desktop\tooldev\ToolDevColour\ToolDev\ToolDev\obj\Debug\net5.0-windows\ToolDev.pdb
+C:\Users\User\Desktop\tooldev\ToolDevColour\ToolDev\ToolDev\obj\Debug\net5.0-windows\ToolDev.genruntimeconfig.cache
+C:\Users\User\Desktop\tooldev\ToolDev_Zainian_Vermeulen\ToolDev\ToolDev\bin\Debug\net5.0-windows\ToolDev.exe
+C:\Users\User\Desktop\tooldev\ToolDev_Zainian_Vermeulen\ToolDev\ToolDev\bin\Debug\net5.0-windows\ToolDev.deps.json
+C:\Users\User\Desktop\tooldev\ToolDev_Zainian_Vermeulen\ToolDev\ToolDev\bin\Debug\net5.0-windows\ToolDev.runtimeconfig.json
+C:\Users\User\Desktop\tooldev\ToolDev_Zainian_Vermeulen\ToolDev\ToolDev\bin\Debug\net5.0-windows\ToolDev.runtimeconfig.dev.json
+C:\Users\User\Desktop\tooldev\ToolDev_Zainian_Vermeulen\ToolDev\ToolDev\bin\Debug\net5.0-windows\ToolDev.dll
+C:\Users\User\Desktop\tooldev\ToolDev_Zainian_Vermeulen\ToolDev\ToolDev\bin\Debug\net5.0-windows\ref\ToolDev.dll
+C:\Users\User\Desktop\tooldev\ToolDev_Zainian_Vermeulen\ToolDev\ToolDev\bin\Debug\net5.0-windows\ToolDev.pdb
+C:\Users\User\Desktop\tooldev\ToolDev_Zainian_Vermeulen\ToolDev\ToolDev\obj\Debug\net5.0-windows\ToolDev.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\tooldev\ToolDev_Zainian_Vermeulen\ToolDev\ToolDev\obj\Debug\net5.0-windows\FontDialog.g.cs
+C:\Users\User\Desktop\tooldev\ToolDev_Zainian_Vermeulen\ToolDev\ToolDev\obj\Debug\net5.0-windows\HelpDialog.g.cs
+C:\Users\User\Desktop\tooldev\ToolDev_Zainian_Vermeulen\ToolDev\ToolDev\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\User\Desktop\tooldev\ToolDev_Zainian_Vermeulen\ToolDev\ToolDev\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\User\Desktop\tooldev\ToolDev_Zainian_Vermeulen\ToolDev\ToolDev\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Desktop\tooldev\ToolDev_Zainian_Vermeulen\ToolDev\ToolDev\obj\Debug\net5.0-windows\ToolDev_MarkupCompile.cache
+C:\Users\User\Desktop\tooldev\ToolDev_Zainian_Vermeulen\ToolDev\ToolDev\obj\Debug\net5.0-windows\ToolDev_MarkupCompile.lref
+C:\Users\User\Desktop\tooldev\ToolDev_Zainian_Vermeulen\ToolDev\ToolDev\obj\Debug\net5.0-windows\FontDialog.baml
+C:\Users\User\Desktop\tooldev\ToolDev_Zainian_Vermeulen\ToolDev\ToolDev\obj\Debug\net5.0-windows\HelpDialog.baml
+C:\Users\User\Desktop\tooldev\ToolDev_Zainian_Vermeulen\ToolDev\ToolDev\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\User\Desktop\tooldev\ToolDev_Zainian_Vermeulen\ToolDev\ToolDev\obj\Debug\net5.0-windows\ToolDev.g.resources
+C:\Users\User\Desktop\tooldev\ToolDev_Zainian_Vermeulen\ToolDev\ToolDev\obj\Debug\net5.0-windows\ToolDev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\tooldev\ToolDev_Zainian_Vermeulen\ToolDev\ToolDev\obj\Debug\net5.0-windows\ToolDev.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\tooldev\ToolDev_Zainian_Vermeulen\ToolDev\ToolDev\obj\Debug\net5.0-windows\ToolDev.AssemblyInfo.cs
+C:\Users\User\Desktop\tooldev\ToolDev_Zainian_Vermeulen\ToolDev\ToolDev\obj\Debug\net5.0-windows\ToolDev.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\tooldev\ToolDev_Zainian_Vermeulen\ToolDev\ToolDev\obj\Debug\net5.0-windows\ToolDev.dll
+C:\Users\User\Desktop\tooldev\ToolDev_Zainian_Vermeulen\ToolDev\ToolDev\obj\Debug\net5.0-windows\ref\ToolDev.dll
+C:\Users\User\Desktop\tooldev\ToolDev_Zainian_Vermeulen\ToolDev\ToolDev\obj\Debug\net5.0-windows\ToolDev.pdb
+C:\Users\User\Desktop\tooldev\ToolDev_Zainian_Vermeulen\ToolDev\ToolDev\obj\Debug\net5.0-windows\ToolDev.genruntimeconfig.cache
+D:\aSAE\tooldev\ToolDev_Zainian_Vermeulen\ToolDev\ToolDev\bin\Debug\net5.0-windows\ToolDev.exe
+D:\aSAE\tooldev\ToolDev_Zainian_Vermeulen\ToolDev\ToolDev\bin\Debug\net5.0-windows\ToolDev.deps.json
+D:\aSAE\tooldev\ToolDev_Zainian_Vermeulen\ToolDev\ToolDev\bin\Debug\net5.0-windows\ToolDev.runtimeconfig.json
+D:\aSAE\tooldev\ToolDev_Zainian_Vermeulen\ToolDev\ToolDev\bin\Debug\net5.0-windows\ToolDev.runtimeconfig.dev.json
+D:\aSAE\tooldev\ToolDev_Zainian_Vermeulen\ToolDev\ToolDev\bin\Debug\net5.0-windows\ToolDev.dll
+D:\aSAE\tooldev\ToolDev_Zainian_Vermeulen\ToolDev\ToolDev\bin\Debug\net5.0-windows\ToolDev.pdb
+D:\aSAE\tooldev\ToolDev_Zainian_Vermeulen\ToolDev\ToolDev\obj\Debug\net5.0-windows\ToolDev.csproj.AssemblyReference.cache
+D:\aSAE\tooldev\ToolDev_Zainian_Vermeulen\ToolDev\ToolDev\obj\Debug\net5.0-windows\FontDialog.g.cs
+D:\aSAE\tooldev\ToolDev_Zainian_Vermeulen\ToolDev\ToolDev\obj\Debug\net5.0-windows\HelpDialog.g.cs
+D:\aSAE\tooldev\ToolDev_Zainian_Vermeulen\ToolDev\ToolDev\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\aSAE\tooldev\ToolDev_Zainian_Vermeulen\ToolDev\ToolDev\obj\Debug\net5.0-windows\App.g.cs
+D:\aSAE\tooldev\ToolDev_Zainian_Vermeulen\ToolDev\ToolDev\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\aSAE\tooldev\ToolDev_Zainian_Vermeulen\ToolDev\ToolDev\obj\Debug\net5.0-windows\ToolDev_MarkupCompile.cache
+D:\aSAE\tooldev\ToolDev_Zainian_Vermeulen\ToolDev\ToolDev\obj\Debug\net5.0-windows\ToolDev_MarkupCompile.lref
+D:\aSAE\tooldev\ToolDev_Zainian_Vermeulen\ToolDev\ToolDev\obj\Debug\net5.0-windows\FontDialog.baml
+D:\aSAE\tooldev\ToolDev_Zainian_Vermeulen\ToolDev\ToolDev\obj\Debug\net5.0-windows\HelpDialog.baml
+D:\aSAE\tooldev\ToolDev_Zainian_Vermeulen\ToolDev\ToolDev\obj\Debug\net5.0-windows\MainWindow.baml
+D:\aSAE\tooldev\ToolDev_Zainian_Vermeulen\ToolDev\ToolDev\obj\Debug\net5.0-windows\ToolDev.g.resources
+D:\aSAE\tooldev\ToolDev_Zainian_Vermeulen\ToolDev\ToolDev\obj\Debug\net5.0-windows\ToolDev.GeneratedMSBuildEditorConfig.editorconfig
+D:\aSAE\tooldev\ToolDev_Zainian_Vermeulen\ToolDev\ToolDev\obj\Debug\net5.0-windows\ToolDev.AssemblyInfoInputs.cache
+D:\aSAE\tooldev\ToolDev_Zainian_Vermeulen\ToolDev\ToolDev\obj\Debug\net5.0-windows\ToolDev.AssemblyInfo.cs
+D:\aSAE\tooldev\ToolDev_Zainian_Vermeulen\ToolDev\ToolDev\obj\Debug\net5.0-windows\ToolDev.csproj.CoreCompileInputs.cache
+D:\aSAE\tooldev\ToolDev_Zainian_Vermeulen\ToolDev\ToolDev\obj\Debug\net5.0-windows\ToolDev.dll
+D:\aSAE\tooldev\ToolDev_Zainian_Vermeulen\ToolDev\ToolDev\obj\Debug\net5.0-windows\refint\ToolDev.dll
+D:\aSAE\tooldev\ToolDev_Zainian_Vermeulen\ToolDev\ToolDev\obj\Debug\net5.0-windows\ToolDev.pdb
+D:\aSAE\tooldev\ToolDev_Zainian_Vermeulen\ToolDev\ToolDev\obj\Debug\net5.0-windows\ToolDev.genruntimeconfig.cache
+D:\aSAE\tooldev\ToolDev_Zainian_Vermeulen\ToolDev\ToolDev\obj\Debug\net5.0-windows\ref\ToolDev.dll
